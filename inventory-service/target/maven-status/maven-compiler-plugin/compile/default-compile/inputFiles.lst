@@ -1,0 +1,5 @@
+/home/raj/Projects Workspace/microservices_project/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_service/InventoryServiceApplication.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_service/controller/InventoryController.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_service/model/Inventory.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_service/repository/InventoryRepository.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/inventory-service/src/main/java/com/programmingtechie/inventory_service/service/InverntoryService.java

@@ -1,0 +1,7 @@
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/ProductServiceApplication.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/controller/ProductController.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/dto/ProductRequest.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/dto/ProductResponse.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/model/Product.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/repository/ProductRepository.java
+/home/raj/Projects Workspace/microservices_project/microservices-new/product-service/src/main/java/com/programmingtechie/product_service/service/ProductService.java

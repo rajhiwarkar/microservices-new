@@ -1,0 +1,6 @@
+com/programmingtechie/inventory_service/InventoryServiceApplication.class
+com/programmingtechie/inventory_service/model/Inventory.class
+com/programmingtechie/inventory_service/repository/InventoryRepository.class
+com/programmingtechie/inventory_service/service/InverntoryService.class
+com/programmingtechie/inventory_service/model/Inventory$InventoryBuilder.class
+com/programmingtechie/inventory_service/controller/InventoryController.class
