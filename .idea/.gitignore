@@ -1,3 +1,23 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Ignore target directories
+**/target/
+
+# Ignore compiled class files
+*.class
+
+# Ignore Maven/Gradle-specific files
+**/maven-status/
+**/maven-compiler-plugin/
+**/testCompile/
+*.jar
+*.war
+*.ear
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+*.log
+
